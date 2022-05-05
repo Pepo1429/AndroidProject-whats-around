@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AndroidProject</string>
+    <string name="start">Let\'s Go!</string>
+    <string name="DateOfAdd">Created on</string>
+    <string name="Rate">Rate</string>
+    <string name="Creation">Created by</string>
+    <string name="Visit">Visit</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="MAPS_API_KEY">AIzaSyAtrdp_wNtyZ0r8v5S12n_oKMEBX0fmKIU</string>
+    <string name="Comment">Comment</string>
+    <string name="Visitis">Visits</string>
+    <string name="Comments">Comments</string>
+    <string name="landmark">Add Landmark</string>
+    <string name="addLandmark">addLandmark</string>
+    <string name="con">Continue as Guest</string>
+    <string name="Register">Registration</string>
+    <string name="Login">Login</string>
+    <string name="userreg">User Registration</string>
+    <string name="user">Username</string>
+    <string name="Password">Password</string>
+    <string name="conf">Confirm password</string>
+    <string name="title_activity_user_login">user_login</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_login_user">login_user</string>
+    <string name="sign">Sign In</string>
+    <string name="login">Login</string>
+    <string name="Add">Add Landmark</string>
+    <string name="upload">Upload picture</string>
+    <string name="Landmark">Landmark name</string>
+    <string name="Choose">Choose from gallery</string>
+    <string name="Capture">Take photo</string>
+    <string name="Roll">Camera Roll</string>
+    <string name="upload1">Upload</string>
+    <string name="title_activity_add_comment">addComment</string>
+    <string name="AddC">Add coment</string>
+    <string name="AddCs">Add comment</string>
+    <string name="tell">Describe your expiriance</string>
+    <string name="Pic">Image upload</string>
+    <string name="Logout">Logout</string>
+</resources>
